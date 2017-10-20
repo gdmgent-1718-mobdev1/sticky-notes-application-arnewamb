@@ -1,0 +1,46 @@
+body{
+	background-color: brown;
+}
+
+
+
+.notitie{
+background-color: yellow;
+width: 150px;
+height: 150px;
+display: inline-block;
+margin: 20px;
+font-family: helvetica;
+color: black;
+text-align: center;
+}
+
+
+a{
+	font-size: 10px;
+}
+a:link {
+  color: black;  
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+	color: red;
+}
+
+
+.stickyy{
+	margin-top: 50px;
+}
+
+
+span{
+	font-size: 12px;
+}
